@@ -3,3 +3,4 @@ so if someone else has the will and desire to help I would love to know, does it
 ------The idea------
 The entire idea is that a singularity is actually the lowest possible entropy crystal. This crystal decays via hawking radiation but importantly is also our direct measureable interaction with dark matter. 
 If this formula is correct it would indicate that within current cosmic understanding and observations that it is a better approximation of our universe than General Relativity and Quantum Mechanics alone. 
+(The OuruO formula and overview PDF are public on the repo)
