@@ -1,7 +1,7 @@
 Pretty much just spent some time exploring possible methods to fix our current physics back onto our cosmological observations. Came up with this. I can't really prove it though, it is outside my capability, 
 so if someone else has the will and desire to help I would love to know, does it work within our current cosmological observations and constraints?
 ------The idea------
-The entire idea is that a singularity is actually the lowest possible entropy crystal. This crystal decays via hawking radiation but importantly is also our direct measureable interaction with dark matter. 
-If this formula is correct it would indicate that within current cosmic understanding and observations that it is a better approximation of our universe than General Relativity and Quantum Mechanics alone. 
+Overview
+OuruO Gravitation reimagines a “singularity” as a rigid, low‑entropy crystal formed by a confining dark‑QCD sector. Inside black holes this crystal persists and then decays via Hawking radiation—providing the very portal by which we observe dark matter’s effects in the cosmos.
+By weaving together black‑hole microphysics, dark‑matter self‑interactions, and a subtle drift in gravitational coupling, this unified picture captures phenomena that General Relativity and Quantum Mechanics address only separately. If borne out by data, it offers a more cohesive and predictive framework for our universe. 
 (The OuruO formula and overview PDF are public on the repo)
-I should add that I believe what I put here today contains about 70% of the answer to connecting General relativity and Quantum Mechanics, its close but with some help from someone experienced I bet it can get there
