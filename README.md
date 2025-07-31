@@ -27,3 +27,9 @@ Numerically integrating the φ (σ) background to get α_M(z).
 Comparing to publicly available data from galaxy‑cluster dynamics, CMB+BAO, and GW‑EM siren catalogs.
 
 Because every free parameter is tied to the dark‑QCD inputs (Λ_D, N_f, …), there’s no hidden knob left to turn—if any one of these observables fails to match, the theory is decisively falsified
+
+
+
+-----
+My two cents, the idea is correct but the math needs help. Unfortunately improving the latter is above my capbilities.
+-----
