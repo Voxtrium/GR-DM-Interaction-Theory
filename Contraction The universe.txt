@@ -1,0 +1,9 @@
+Ekpyrotic Contraction: The universe contracts. An effective "stiff fluid" (w >> 1) from the horizon sector dominates, exponentially smoothing out anisotropies and flattening spatial curvature.
+
+The Bounce: The universe reaches a maximum density "horizon foam." In this near-critical phase, the surface EFT sheds relic skyrmions (Dark Matter) and the parity-odd gravity generates a lepton asymmetry (Baryogenesis). Fine-grained information from the previous cycle is scrambled and redistributed.
+
+Expansion: A hot, dense, and now smooth universe emerges from the bounce, containing the right initial ingredients (matter, dark matter, radiation) and proceeds according to standard GR.
+
+Structure Formation & Late Universe: The universe expands, cools, and forms structure. Black holes grow, their horizons contributing to a growing effective cosmological constant (Λ_eff), driving late-time acceleration.
+
+Decay & Recollapse: As black holes evaporate over immense timescales, Λ_eff decays towards zero. The universe, having a slight positive spatial curvature, eventually ceases expanding and begins to recollapse, initiating the next cycle.
