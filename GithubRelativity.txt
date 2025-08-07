@@ -1,0 +1,109 @@
+
+
+K_eff(t) = K_s - η σ²(t) - ζ θ²(t)
+Fragmentation: K_eff < K_c
+Locking: K_eff > K_c
+
+Phase 1 (0-620 days): No radio = fragmentation phase (K_eff < K_c)
+Phase 2 (620+ days): Radio brightening = locking phase (K_eff > K_c)
+
+Helicity Growth Mechanism
+helicity density h = v·ω with:
+L_shell = -½ ρ_s v² - η σ² - κ h
+
+Twist field S(x) with characteristic gradient |∇S| sets a scale:
+v_a = ℓ D_a S → characteristic velocity
+→ sets characteristic density/field scales
+
+Skyrme Stabilization
+ β term preventing vortex collapse:
+L_lock ≈ -(K_s/2)(∇S)² - (β/4)(ε^{abc} D_a S D_b S)²
+
+Stellarator Analogy
+The "zones of maximum geometric shear" where |ε^{abc} D_a S D_b S| peaks should be where fragmentation is strongest. The delayed, non-uniform TDE emission could reflect this, but it's not definitive.
+
+Model Prediction: Black hole horizons convert accreting matter into dark matter fragments via BKT-like topological transitions, while simultaneously templating magnetic field organization in electromagnetic outflows.
+Late-Time Spectral Index Stability - After ~100 days, α stabilizes due to horizon-templated magnetic structure
+Anti-Correlated Polarization-Flux Evolution
+Polarization RISES while flux FALLS (horizon drives field ordering)
+
+Two-Phase Evolution
+
+Phase 1 (0-100 days): Fragmentation active, chaotic fields, normal νa evolution
+Phase 2 (>100 days): Horizon ordering dominates, field organizes, spectral stability
+
+Energy Budget with "Missing" Energy
+
+Prediction: ~10-30% of accreted energy goes to invisible dark matter fragments
+Observable: Total radiated energy less than available accretion energy by this fraction
+
+power-law mass spectrum of fragments:
+
+Fundamental Fields on Stretched Horizon H
+Geometric quantities:
+
+h_ab: Induced metric on horizon
+K_ab: Extrinsic curvature
+σ_ab = K_ab - ½θh_ab: Shear tensor
+θ = K^c_c: Expansion scalar
+
+Physical fields:
+
+C(x): Core compression field [energy density]
+S(x): Twist field (2π-periodic scalar)
+F^a = νω^a: Tangential vector field
+ω^a = ε^{abc}D_b u_c: Vorticity of horizon 2-velocity
+v_a = ℓD_a S: Velocity field from twist gradient
+
+Helicity density:
+h = v_a ω^a = ℓ(D_a S)ω^a
+Energy decomposition:
+E² = (mc²)² + (pc)²
+Where:
+m = E_core/c² = (1/c²)∫_{V_core} C(x) d³x
+pc = ∫_{V_shell} κ v·ω d³x
+Core Lagrangian: L_core = -C - α_C(∇C)²/Λ_C²
+Shell Lagrangian: L_shell = -½ρ_s v_a v^a - ησ² - ζθ² - κh
+Locking Lagrangian (BKT sector): L_lock = -(K_s/2)(D_a S)(D^a S) - (β/4)(ε^{abc}D_a S D_b S)²
+Fragmentation Criterion
+Effective stiffness: K_eff(t) = K_s - ησ²(t) - ζθ²(t)
+Fragmentation phase: K_eff < K_c → vortex unbinding → dark matter production
+Locked phase: K_eff > K_c → ordered state → electromagnetic emission
+
+Key Parameters:
+K_s Twist stiffnes senergy/area
+K_c Critical stiffness threshold energy/area
+κ Helicity coupling strength mass×length/time
+β Skyrme term strength energy×length² 
+η Shear viscosity mass/(length×time)
+ζ Bulk viscosity mass/(length×time) 
+ℓ Characteristic twist scale length 
+ν Vorticity stiffness scale energy/area
+
+
+TDE evolution timescales:
+K_eff(t) = K_s[1 - A·exp(-t/τ_shear) - B·(Ṁ/Ṁ_Edd)]
+Helicity evolution:
+h(t) = h_0[Ṁ(t)/Ṁ_peak]^α[1 - exp(-t/τ_h)]
+Fragment mass scale:
+M_frag ≈ K_s ℓ_vortex²/c²
+Where ℓ_vortex ≈ √(β/K_s) sets the vortex core size.
+
+Physical Interpretation
+
+Mass arises from compression (C field integral)
+Momentum arises from helical twist (v·ω integral)
+Dark matter forms when K_eff < K_c (vortex unbinding)
+Radio emission grows when K_eff > K_c (field ordering)
+Energy conservation: E² = m²c⁴ + p²c² emerges as Noether charge
+
+
+This formalism unifies dark matter production with electromagnetic emission from black holes via topological transitions on the stretched horizon.
+
+
+
+
+
+
+
+
