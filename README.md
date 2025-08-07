@@ -1,35 +1,45 @@
-Pretty much just spent some time exploring possible methods to fix our current physics back onto our cosmological observations. Came up with this. I can't really prove it though, it is outside my capability, 
-so if someone else has the will and desire to help I would love to know, does it work within our current cosmological observations and constraints?
-------The idea------
-Overview
-OuruO Gravitation reimagines a “singularity” as a rigid, low‑entropy crystal formed by a confining dark‑QCD sector. Inside black holes this crystal persists and then decays via Hawking radiation—providing the very portal by which we observe dark matter’s effects in the cosmos.
-By weaving together black‑hole microphysics, dark‑matter self‑interactions, and a subtle drift in gravitational coupling, this unified picture captures phenomena that General Relativity and Quantum Mechanics address only separately. If borne out by data, it offers a more cohesive and predictive framework for our universe. 
-(The OuruO formula and overview PDF are public on the repo)
-
-I believe what needs to happen next is we need to run a SIDM test to see if the variables can all be expressed in the formula without breaking observational constraints, if it does then we can go from there.
-----------------------------
-
-Falsifiable predictions
-
-Dark‑matter self‑interactions: it fixes the velocity‑dependent cross‑section σₜ(v) via the dilaton–baryon coupling. If clusters or dwarfs show σₜ/m outside the 0.1–1 cm²/g window, the model is ruled out.
-
-GW vs EM siren distances: it predicts a 0.3–0.7 % amplitude split by z≈1. Upcoming LIGO/Virgo/KAGRA standard‑siren catalogs (and future LISA/ET) will confirm or falsify that.
-
-BAO & local 𝐺̇/G bounds: it requires |ΔH/H|<0.5 % at z∈[0.2,0.7] and |α_M(0)|≲10⁻². Current BAO surveys and pulsar/solar‑system tests already probe this regime.
-
-Within our reach
-All these checks involve:
-
-Solving the Schrödinger equation for a Yukawa potential (partial waves or validated fits).
-
-Numerically integrating the φ (σ) background to get α_M(z).
-
-Comparing to publicly available data from galaxy‑cluster dynamics, CMB+BAO, and GW‑EM siren catalogs.
-
-Because every free parameter is tied to the dark‑QCD inputs (Λ_D, N_f, …), there’s no hidden knob left to turn—if any one of these observables fails to match, the theory is decisively falsified
-
-
-
+A single idea that links black-hole horizons, dark-matter behavior, and the cosmic “dark energy” push by treating every black hole’s horizon as a thin, twisty membrane that slowly feeds energy back into the universe.
 -----
-My two cents, the idea is correct but the math needs help. Unfortunately improving the latter is above my capbilities.
+How to picture it
 -----
+Black holes aren’t perfect voids – their horizons act like active skins that can store and leak energy.
+
+Tiny “vortex grains” on that skin behave like dark-matter particles once they pop off.
+
+The more horizon area the universe builds (through new black holes and mergers), the more the vacuum energy drifts—giving a gentle late-time push that we normally call dark energy.
+
+Three stiffness knobs built into the membrane decide all of that:
+
+how heavy each grain is,
+
+how strongly those grains bump into each other,
+
+and a tiny twist that future gravitational-wave detectors could notice.
+--------------------
+Why it hasn’t failed yet
+First pass through galaxy and black-hole data shows the allowed window for those three knobs is not already ruled out.
+
+Energy bookkeeping and stability checks pass on paper—no hidden infinities popped out.
+
+It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck Big-Bang nucleosynthesis or the CMB.
+
+What still has to be proven (and needs help)
+Open job	Why it matters
+Model the real black-hole population	We need a number for “how much new horizon area per year” to turn the idea into an exact curve for dark-energy drift.
+Plug the drift curve into a cosmology code (e.g. CLASS)	To see if supernova & BAO data actually prefer this over vanilla ΛCDM.
+Compare the built-in dark-matter self-interaction to dwarf-galaxy data	If the predicted bumping strength is outside 0.1–3 cm²/g, the theory is dead.
+Look for the tiny twist in black-hole ring-down waves	Should shift the main tone by <1 %—future LIGO/LISA runs could catch it.
+
+
+Why bother?
+If these four tests pass, we get one framework that:
+
+explains why dark matter interacts a bit but not too much,
+
+makes dark energy evolve instead of being a magic constant,
+
+and does it without adding dozens of new particles or forces.
+
+If any one test fails, the idea is falsified—clear win–win.
+
+
