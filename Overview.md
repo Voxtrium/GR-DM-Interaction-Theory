@@ -311,8 +311,9 @@ The factor $(|\Omega|R_\ast)$ is a dimensionless measure of horizon vorticity ag
 Anchor → $a$ line:
 $`(\sigma/m){\rm nat}=(\sigma/m){\rm cgs}/(2.184\times10^{-4})`$, $`\sigma_0(0)=m(\sigma/m){\rm nat}`$, $`a=\sqrt{\sigma_0(0)/(4\pi)}`$; with $`(\sigma/m){\rm cgs}=0.10`$ and $`m=6.283`$, this gives $`a=1.5130\times10^{1}\,{\rm GeV}^{-1}`$.
 
+history-saturation form; $a$ is the scale factor, $S_{\rm DM}$ is the comoving source rate per unit $a$, $K$ is a causal, bounded kernel). $\rho_{\rm DM}(a)=\rho_{\rm DM,prim},a^{-3}+\displaystyle\int_{0}^{a}S_{\rm DM}(a'),K(a,a'),da'$, with $S_{\rm DM}(a!\to!1)\to 0$ and $\sup_{a,a'}|K(a,a')|<\infty$.)
 
-
+In the late-time steady limit ($\dot S_{\rm hor}!\to!0$), the model reduces to GR $+\Lambda$ with $\rho_{\rm DM}\propto a^{-3}$ and $w\to -1$; no residual drift above $\mathcal O(1%)$.
 
 Size → $r_e$ line (this was a modeling choice):
 “$,r_e=\xi,R_\ast,$ with $,\xi=2/3,$ and $,R_\ast=27.2466,{\rm GeV}^{-1},$ gives $,r_e=18.1644,{\rm GeV}^{-1},$ To be replaced by a phase‑shift extraction in full calculations).”
