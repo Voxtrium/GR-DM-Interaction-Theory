@@ -47,3 +47,22 @@ and does it without adding dozens of new particles or forces.
 If any one test fails, the idea is falsified—clear win–win.
 ---------------------------------------------------
 
+Predictions:
+
+A TDE event is more polarized when cooler, less polarized when hotter.
+
+As a TDE brightens, it hardens faster than a constant‑area blackbody; as it fades, it softens faster.
+
+Expect longer hard–soft lags near peak, shrinking as the TDE fades.
+
+Velocity‑dependent SIDM curve fixed by the micro size.
+
+Core sizes track velocity dispersion across halos.
+
+Departures from ΛCDM should track the cosmic BH mass‑growth and merger history.
+
+
+Color–polarization–flux triplet.
+A single event should follow $,p\propto F^{-\gamma(1+\alpha)},$ and $,p\propto T_{\rm eff}^{-4\gamma},$ at fixed viewing angle. 
+This gives a three‑way diagnostic: if observations show $,p$ dropping while both $F$ and $T_{\rm eff}$ rise, if we are in the high‑$,\tau,$, then its a collapse‑dominated branch; if not, geometry changes must be dominating $,f_{\rm geom}$.
+
