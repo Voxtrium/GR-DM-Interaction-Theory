@@ -23,7 +23,17 @@ Energy bookkeeping and stability checks pass on paper—no hidden infinities pop
 
 It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck Big-Bang nucleosynthesis or the CMB.
 
-What still has to be proven (and needs help)
+New interpertation of light bending!
+---
+Energy paths optimize across a density gradient in the vacuum field. And flipping the gradient flips whether passes converge or diverge.
+---
+Think of how light interacts with hot vs cold objects. Rn it's light changes because the mediums refractive index changed. 
+But in my model one would instead say that hot vs cold light converges or diverges based on the density gradient. 
+And hot vs cold would be an extremely low tech example of inverting the gradient for how light is interacting.
+
+
+
+
 Why it matters
 
 Model the real black-hole population	We need a number for “how much new horizon area per year” to turn the idea into an exact curve for dark-energy drift using the comoving horizon volume
