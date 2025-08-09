@@ -87,6 +87,12 @@ Gate Q2 (positive): if I3 is detected at ≥3σ, we fit εBorn to match it and s
 
 Gate Q3 (consistency): any nonzero εBorn must not contradict existing atomic/optical tests. If it does, reject that scaling.
 
+Fast preregistration text
+
+Hypothesis H0: evolution is linear; I3 = 0 in Earth’s field to within experimental bounds.
+Expected result -> Hypothesis H1: evolution shows higher-order interference; I3 = εBorn × S, where S is a dimensionless function of the three-node geometry and local gravitational potential differences.
+Decision: adopt H0 if |I3| < 3σ; otherwise adopt H1 and update a report with fitted εBorn and tentative scaling p.
+
 
 Color–polarization–flux triplet.
 A single event should follow $,p\propto F^{-\gamma(1+\alpha)},$ and $,p\propto T_{\rm eff}^{-4\gamma},$ at fixed viewing angle. 
