@@ -71,6 +71,22 @@ Core sizes track velocity dispersion across halos.
 
 Departures from ΛCDM should track the cosmic BH mass‑growth and merger history.
 
+-----
+
+Decision posture for Field Curvature test
+
+Weak-field baseline: assume standard QM evolving along GR proper time unless data say otherwise.
+
+Openness clause: if future experiments show higher-order interference, we switch to a quantified nonlinearity with a single parameter.
+
+Pre-registered gates
+
+Gate Q1 (null): if triple-path interference I3 is consistent with 0 within experimental error in Earth gravity, we set εBorn(Earth) = 0 and keep using GR+QM in weak fields.
+
+Gate Q2 (positive): if I3 is detected at ≥3σ, we fit εBorn to match it and specify how εBorn scales with potential differences or curvature. Provisional scaling to test later: εBorn ∝ (ΔΦ/c^2)^p with p ≥ 1.
+
+Gate Q3 (consistency): any nonzero εBorn must not contradict existing atomic/optical tests. If it does, reject that scaling.
+
 
 Color–polarization–flux triplet.
 A single event should follow $,p\propto F^{-\gamma(1+\alpha)},$ and $,p\propto T_{\rm eff}^{-4\gamma},$ at fixed viewing angle. 
