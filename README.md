@@ -25,9 +25,13 @@ It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck 
 
 What still has to be proven (and needs help)
 Open job and Why it matters
+
 Model the real black-hole population	We need a number for “how much new horizon area per year” to turn the idea into an exact curve for dark-energy drift using the comoving horizon volume
+
 Plug the drift curve into a cosmology code (e.g. CLASS)	To see if supernova & BAO data actually prefer this over vanilla ΛCDM.
+
 Compare the built-in dark-matter self-interaction to dwarf-galaxy data	If the predicted bumping strength is outside 0.1–3 cm²/g, the theory is dead.
+
 Look for the tiny twist in black-hole ring-down waves	Should shift the main tone by <1 %—future LIGO/LISA runs could catch it.
 
 
