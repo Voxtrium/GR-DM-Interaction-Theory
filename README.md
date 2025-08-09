@@ -24,7 +24,7 @@ Energy bookkeeping and stability checks pass on paper—no hidden infinities pop
 It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck Big-Bang nucleosynthesis or the CMB.
 
 What still has to be proven (and needs help)
-Open job and Why it matters
+Why it matters
 
 Model the real black-hole population	We need a number for “how much new horizon area per year” to turn the idea into an exact curve for dark-energy drift using the comoving horizon volume
 
