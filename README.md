@@ -1,95 +1,76 @@
-A single idea that links black-hole horizons, dark-matter behavior, and the cosmic “dark energy” push by treating every black hole’s horizon as a thin, twisty membrane that slowly feeds energy back into the universe.
------
-How to picture it
------
-Black holes aren’t perfect voids – their horizons act like active skins that can store and leak energy.
+# Black-hole horizons as routers for dark matter and dark energy — overview
 
-Tiny “vortex grains” on that skin behave like dark-matter particles once they pop off.
+**One idea in one sentence.**  
+Horizon activity (growth/mergers) seeds tiny, conserved source terms that route energy into three channels — vacuum (looks like dark‑energy drift), dark matter (as soliton‑like grains), and gravitational waves — with the split controlled by simple microphysics.
 
-The more horizon area the universe builds (through new black holes and mergers), the more the vacuum energy drifts—giving a gentle late-time push that we normally call dark energy.
+**What this isn’t.**  
+Not a fifth force; not a particle zoo; not a rewrite of GR/QFT. When horizon sourcing is gated down (or negligible), the model reverts to standard ΛCDM with cold dark matter.
 
-Three stiffness knobs built into the membrane decide all of that:
-
-how heavy each grain is,
-
-how strongly those grains bump into each other,
-
-and a tiny twist that future gravitational-wave detectors could notice.
---------------------
-Why it hasn’t failed yet
-First pass through galaxy and black-hole data shows the allowed window for those three knobs is not already ruled out.
-
-Energy bookkeeping and stability checks pass on paper—no hidden infinities popped out.
-
-It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck Big-Bang nucleosynthesis or the CMB.
-
-Potential interpertation of light bending
 ---
-Energy paths optimize across a density gradient in the vacuum field. And flipping the gradient flips whether passes converge or diverge.
 
-As an analogy, consider light passing through air that is hotter or colder. In standard optics, the bending is described as a change in the medium’s refractive index with temperature. In this model, the same effect can be reinterpreted as light converging or diverging in response to the density gradient of the medium — the hot/cold example is just a simple, low-tech illustration of how inverting the gradient changes the interaction.
+## How to picture it (safe intuition)
 
-Why it matters
+**Active horizons, not violations.**  
+We use an *exterior* source proportional to horizon‑entropy production; local covariant conservation is enforced, and causality is retarded. No energy exits from inside horizons.
 
-Model the real black-hole population	We need a number for “how much new horizon area per year” to turn the idea into an exact curve for dark-energy drift using the comoving horizon volume
+**Grains = dark matter.**  
+The sourced dark matter is modeled as classical solitons from an SU(2) Skyrme EFT. One micro length scale \(R_\*\) fixes the mass \(m\) and the velocity‑dependent $(\sigma_T/m)(v)$ used by simulators.
 
-Plug the drift curve into a cosmology code (e.g. CLASS)	To see if supernova & BAO data actually prefer this over vanilla ΛCDM.
+**Drift comes from demographics.**  
+A small vacuum term drifts with the integrated build‑up of horizon area (black‑hole formation and mergers). If data prefer no drift, set that channel to zero and recover ΛCDM.
 
-Compare the built-in dark-matter self-interaction to dwarf-galaxy data	If the predicted bumping strength is outside 0.1–3 cm²/g, the theory is dead.
+---
 
-Look for the tiny twist in black-hole ring-down waves	Should shift the main tone by <1 %—future LIGO/LISA runs could catch it.
+## The three “knobs” and what sets them
 
+1) **Grain mass \(m\)** — fixed by the soliton solution (calibrated at \(m \approx 6\ \mathrm{GeV}\)).  
+2) **Grain–grain scattering **$(\sigma_T/m)(v)$** — fixed by \(R_\*\) and effective‑range/finite‑size physics; anchored at dwarfs, falls with \(v\); cluster‑safe by construction.  
+3) **Optional “twist” for ringdown** — a small, environment/boundary‑condition parameter that could induce sub‑percent, mass‑scaled offsets in QNM tones. **Optional** and set to 0 if null; not required by the rest of the framework.
 
-Why bother?
-If these four tests pass, we get one framework that:
+All three can *scale* with the same micro scale \(R_\*\) on dimensional grounds, but only (1)–(2) are presently derived from the Skyrme sector.
 
-explains why dark matter interacts a bit but not too much,
+---
 
-makes dark energy evolve instead of being a magic constant,
+## Defaults and guardrails (late‑time safety)
 
-and does it without adding dozens of new particles or forces.
+- **CDM‑limit by default.** Structure formation behaves like CDM; the SIDM curve is mild and velocity‑dependent; cluster bounds are respected.  
+- **Dark energy close to \(w=-1\).** Late‑time \(w\) is \(-1\) up to percent‑level drift at most, and can be dialed exactly to \(-1\) if data prefer.  
+- **Causality/locality.** Sourcing is retarded; a topological/4‑form bookkeeping option can enforce global budget updates without superluminal propagation.  
+- **Tiny shedding fraction.** The sourced DM fraction is minute; there is no late‑time flood.
 
-If any one test fails, the idea is falsified—clear win–win.
----------------------------------------------------
+---
 
-Predictions:
+## What it could explain (if small effects are real)
 
-A TDE event is more polarized when cooler, less polarized when hotter.
+- **Why DM “interacts a bit but not too much.”** A single micro scale \(R_\*\) sets both the mass and a gentle, falling \((\sigma_T/m)(v)\).  
+- **Why DE looks nearly constant yet may drift slightly.** Drift tracks real BH demographics and shuts off smoothly when sourcing subsides.  
+- **Why some BH observables might be nudged.** An **optional** sub‑percent, mass‑scaled ringdown shift is allowed but not required.
 
-As a TDE brightens, it hardens faster than a constant‑area blackbody; as it fades, it softens faster.
+*Analogy (optional):* Like light bending in a temperature gradient, energy flow can optimize across a background “texture.” This is only an intuition pump; the dynamics are set by the continuity system.
 
-Expect longer hard–soft lags near peak, shrinking as the TDE fades.
+---
 
-Velocity‑dependent SIDM curve fixed by the micro size.
+## Observables to look at now (regime‑bound; null‑compatible)
 
-Core sizes track velocity dispersion across halos.
+- **SIDM curve from dwarfs to clusters (no per‑halo knobs).** One calibrated curve should fit dwarf cores and remain within cluster limits. If an extreme system strains the fit, check systematics before declaring failure.  
+- **Background drift vs BH growth.** Any departure from ΛCDM should correlate with the integrated horizon‑area history. If data show no drift, set the vacuum channel to zero.  
+- **PTA‑band correlation test.** Regions/epochs with more horizon activity should weakly up‑weight nano‑Hz background power (a correlation test, not an amplitude claim).  
+- **Ringdown tones (optional).** Look for sub‑percent, mass‑scaled offsets. If stacked high‑SNR events show none, set the twist parameter to 0 and proceed.
 
-Departures from ΛCDM should track the cosmic BH mass‑growth and merger history.
+- **Polarization–flux–color “triplet” in specific transients (hypothesis).** In episodes dominated by magnetic/topological relaxation (not compression), expect brightening + hardening with a drop in linear polarization within the same state. This is **regime‑bound** and should be pre‑registered as a sign test.
 
------
+---
 
-Decision posture for Field Curvature test
+## Decision posture
 
-Weak-field baseline: assume standard QM evolving along GR proper time unless data say otherwise.
+- **Tier 0 — Null‑compatible.** If SN/BAO/structure data favor strict ΛCDM and ringdown shifts are null, set vacuum drift and twist to zero. The framework reduces to ΛCDM + CDM, with soliton DM microphysics still allowed.  
+- **Tier 1 — Parameter revision.** If the sign of a regime‑bound observable (e.g., polarization triplet) or a PTA correlation disagrees, revisit gating (which episodes dominate) and the partition split, not the whole framework.  
+- **Tier 2 — Hard no‑go.** Violations of conservation/causality; a required, large late‑time energy injection that cannot be gated down; or cluster‑scale self‑interactions that grossly overshoot bounds and cannot be mitigated by velocity dependence.
 
-Openness clause: if future experiments show higher-order interference, we switch to a quantified nonlinearity with a single parameter.
+*(Ringdown alone is not a kill switch: a null simply sets the twist \(\approx 0\).)*
 
-Pre-registered gates
+---
 
-Gate Q1 (null): if triple-path interference I3 is consistent with 0 within experimental error in Earth gravity, we set εBorn(Earth) = 0 and keep using GR+QM in weak fields.
+## Long‑horizon outlook (optional narrative)
 
-Gate Q2 (positive): if I3 is detected at ≥3σ, we fit εBorn to match it and specify how εBorn scales with potential differences or curvature. Provisional scaling to test later: εBorn ∝ (ΔΦ/c^2)^p with p ≥ 1.
-
-Gate Q3 (consistency): any nonzero εBorn must not contradict existing atomic/optical tests. If it does, reject that scaling.
-
-Fast preregistration text
-
-Hypothesis H0: evolution is linear; I3 = 0 in Earth’s field to within experimental bounds.
-Hypothesis H1: evolution shows higher-order interference; I3 = εBorn × S, where S is a dimensionless function of the three-node geometry and local gravitational potential differences.
-Decision: adopt H0 if |I3| < 3σ; otherwise adopt H1 and update a report with fitted εBorn and tentative scaling p.
-
-
-Color–polarization–flux triplet.
-A single event should follow $,p\propto F^{-\gamma(1+\alpha)},$ and $,p\propto T_{\rm eff}^{-4\gamma},$ at fixed viewing angle. 
-This gives a three‑way diagnostic: if observations show $,p$ dropping while both $F$ and $T_{\rm eff}$ rise, if we are in the high‑$,\tau,$, then its a collapse‑dominated branch; if not, geometry changes must be dominating $,f_{\rm geom}$.
-
+Over extremely long times, horizons bleed mass and the universe trends toward heat death. In this picture that phase releases the last residuals and could “reset” conditions for a next cycle. This cycle view is **philosophical**; it is **not** needed for near‑term tests. However it is used to justify meeting the CMB and BAO constraints for early universe creation and if constraints hold across the microphysics -> macrophysics observables then it will need to be revisited.
