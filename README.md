@@ -23,16 +23,11 @@ Energy bookkeeping and stability checks pass on paper—no hidden infinities pop
 
 It falls back to ordinary ΛCDM when horizons stop growing, so it can’t wreck Big-Bang nucleosynthesis or the CMB.
 
-New interpertation of light bending!
+Potential interpertation of light bending
 ---
 Energy paths optimize across a density gradient in the vacuum field. And flipping the gradient flips whether passes converge or diverge.
----
-Think of how light interacts with hot vs cold objects. Rn it's light changes because the mediums refractive index changed. 
-But in my model one would instead say that hot vs cold light converges or diverges based on the density gradient. 
-And hot vs cold would be an extremely low tech example of inverting the gradient for how light is interacting.
 
-
-
+As an analogy, consider light passing through air that is hotter or colder. In standard optics, the bending is described as a change in the medium’s refractive index with temperature. In this model, the same effect can be reinterpreted as light converging or diverging in response to the density gradient of the medium — the hot/cold example is just a simple, low-tech illustration of how inverting the gradient changes the interaction.
 
 Why it matters
 
