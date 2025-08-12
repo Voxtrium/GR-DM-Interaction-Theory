@@ -1,4 +1,4 @@
-# Black-hole horizons as routers for dark matter and dark energy — overview
+# Black-hole horizons as routers for dark matter and dark energy overview document
 
 **One idea in one sentence.**  
 Horizon activity (growth/mergers) seeds tiny, conserved source terms that route energy into three channels — vacuum (looks like dark‑energy drift), dark matter (as soliton‑like grains), and gravitational waves — with the split controlled by simple microphysics.
@@ -45,8 +45,6 @@ All three can *scale* with the same micro scale \(R_\*\) on dimensional grounds,
 - **Why DM “interacts a bit but not too much.”** A single micro scale \(R_\*\) sets both the mass and a gentle, falling \((\sigma_T/m)(v)\).  
 - **Why DE looks nearly constant yet may drift slightly.** Drift tracks real BH demographics and shuts off smoothly when sourcing subsides.  
 - **Why some BH observables might be nudged.** An **optional** sub‑percent, mass‑scaled ringdown shift is allowed but not required.
-
-*Analogy (optional):* Like light bending in a temperature gradient, energy flow can optimize across a background “texture.” This is only an intuition pump; the dynamics are set by the continuity system.
 
 ---
 
