@@ -1,4 +1,5 @@
 # Black-hole horizons as routers for dark matter and dark energy overview document
+[![DOI](https://zenodo.org/badge/1029151285.svg)](https://doi.org/10.5281/zenodo.16857208)
 
 **One idea in one sentence.**  
 Horizon activity (growth/mergers) seeds tiny, conserved source terms that route energy into three channels — vacuum (looks like dark‑energy drift), dark matter (as soliton‑like grains), and gravitational waves — with the split controlled by simple microphysics.
