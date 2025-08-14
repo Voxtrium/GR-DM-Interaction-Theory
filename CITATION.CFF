@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Horizon–Response Microphysics: SU(2) Skyrme SIDM (microphysics)"
+version: 0.1.0
+doi: 10.5281/zenodo.<your-doi-suffix>
+date-released: 2025-08-14
+authors:
+  - family-names: Karver
+    given-names: Noah
+repository-code: "https://github.com/<you>/<repo>"
+license: "MIT"
