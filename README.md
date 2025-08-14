@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16857209.svg)](https://doi.org/10.5281/zenodo.16857209)
+
 # Black-hole horizons as routers for dark matter and dark energy overview document
 
 **One idea in one sentence.**  
