@@ -10,7 +10,7 @@ Not a fifth force; not a particle zoo; not a rewrite of GR/QFT. When horizon sou
 
 ---
 
-## How to picture it (safe intuition)
+## How to picture it
 
 **Active horizons, not violations.**  
 We use an *exterior* source proportional to horizon‑entropy production; local covariant conservation is enforced, and causality is retarded. No energy exits from inside horizons.
@@ -42,7 +42,7 @@ All three can *scale* with the same micro scale \(R_\*\) on dimensional grounds,
 
 ---
 
-## What it could explain (if small effects are real)
+## What it could explain
 
 - **Why DM “interacts a bit but not too much.”** A single micro scale \(R_\*\) sets both the mass and a gentle, falling \((\sigma_T/m)(v)\).  
 - **Why DE looks nearly constant yet may drift slightly.** Drift tracks real BH demographics and shuts off smoothly when sourcing subsides.  
